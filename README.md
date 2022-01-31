@@ -7,7 +7,7 @@ For more details, consult the author:
 Santiago A. Orellana Pérez<BR>
 Email: tecnochago@gmail.com<BR>
 Mobile: +53 54635944<BR>
-SetV+, Havana, Cuba, 2017<BR>
+SetV+, Havana, Cuba, 2014<BR>
 
 <H1>Densidad de Kernel para Autentificación por Dinámica de Tecleo</H1>
 
